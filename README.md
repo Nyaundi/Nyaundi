@@ -17,41 +17,26 @@
 
 <p align="center">
    <a href="https://twitter.com/Nyaundillc"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_James"></a>
-   <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
-   <a href="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> <img alt="hemant joshi github" src="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> </a>
+   <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="Nyaundi Github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
+   <a href="https://visitor-badge.glitch.me/badge?page_id=James Nyaundi"> <img alt="Nyaundi Github" src="https://visitor-badge.glitch.me/badge?page_id=Jamees Nyaundi"> </a>
  </p>
  
  <h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
+   <i>When you arise in the morning, think of what a precious privilege it is to be alive - to breathe, to think, to enjoy, to love</i>
   </h5>
  
  
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3> I'm 21 years old Full-Stack developer from India.</h3>
 </p>
-
- - 🥀 Learning Swift & Objective_C
- 
- - <i>with Javascript, Typescript, React and 69 others.</i>
-   
- - 🔭 SpaceX FanBoi, die for space😼
-
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
- 
- - I do fullstack and a bit of everything :heart:
- 
- - All About living life at its best.
- 
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
+ <h4>
+I started out as a cool guy i.e Hacker, then transitioned to DevOps(Cool stuffs by the way) and I am passionate with Frontend Design. <br>  I am passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy learning and working with Javascript and its frameworks like React and NodeJs. I dream in Javascript, and I always think that CSS is better than Tailwind, Oh btw I love hacking when I am bored, ethically of Course, since you are not going to read all this, I am also a DevOps engineer.
+</h4>
+ - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >]([https://twitter.com/_hemant_joshi](https://twitter.com/Nyaundillc))
  
  <p align="center">
-  <h4> Full Stack | Competitive Programming </h4>
-   </p>
-
 <!--  -->
-
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
@@ -123,10 +108,6 @@
 
 
 
-<h1> Welcome to my GitHub 👨‍💻❤️ </h1>
-<h4>
-I am James Nyaundi, I started out as a cool guy i.e Hacker, then transitioned to DevOps(Cool stuffs by the way) and I am passionate with Frontend Design. <br>  I am passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy learning and working with Javascript and its frameworks like React and NodeJs. I dream in Javascript, and I always think that CSS is better than Tailwind, Oh btw I love hacking when I am bored, ethically of Course, since you are not going to read all this, I am also a DevOps engineer.
-</h4>
 
 
   
