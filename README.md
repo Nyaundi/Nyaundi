@@ -33,13 +33,13 @@
  <h4>
 I started out as a cool guy i.e Hacker, then transitioned to DevOps(Cool stuffs by the way) and I am passionate with Frontend Design. <br>  I am passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy learning and working with Javascript and its frameworks like React and NodeJs. I dream in Javascript, and I always think that CSS is better than Tailwind, Oh btw I love hacking when I am bored, ethically of Course, since you are not going to read all this, I am also a DevOps engineer.
 </h4>
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >]([https://twitter.com/_hemant_joshi](https://twitter.com/Nyaundillc))
+ - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >]([https://twitter.com/nyaundillc](https://twitter.com/Nyaundillc))
  
  <p align="center">
 <!--  -->
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=nyaundi&&show_icons=true&theme=radical"/>
   </a>
 
 </p>
@@ -97,7 +97,7 @@ I started out as a cool guy i.e Hacker, then transitioned to DevOps(Cool stuffs 
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<p align="center">Made with ❤️ in India</p>
+<p align="center">Made with ❤️ in Kenya</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
