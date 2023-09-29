@@ -37,10 +37,10 @@ I started out as a cool guy i.e Hacker, then transitioned to DevOps(Cool stuffs 
  
  <p align="center">
 <!--  -->
-<p align="center" >
+<!-- <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=nyaundi&&show_icons=true&theme=radical"/>
-  </a>
+  </a> -->
 
 </p>
 
