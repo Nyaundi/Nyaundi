@@ -33,7 +33,6 @@
  <h4>
 I started out as a cool guy i.e Hacker, then transitioned to DevOps(Cool stuffs by the way) and I am passionate with Frontend Design. <br>  I am passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy learning and working with Javascript and its frameworks like React and NodeJs. I dream in Javascript, and I always think that CSS is better than Tailwind, Oh btw I love hacking when I am bored, ethically of Course, since you are not going to read all this, I am also a DevOps engineer.
 </h4>
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >]([https://twitter.com/nyaundillc](https://twitter.com/Nyaundillc))
  
  <p align="center">
 <!--  -->
@@ -59,11 +58,11 @@ I started out as a cool guy i.e Hacker, then transitioned to DevOps(Cool stuffs 
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+<!--   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px"> -->
+<!--   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+<!--   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px"> -->
+<!--   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"> -->
+<!--   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px"> --> -->
 </p>
 
 <!--
@@ -82,13 +81,6 @@ I started out as a cool guy i.e Hacker, then transitioned to DevOps(Cool stuffs 
  ### - What i do
 
 
-<br />
-
-<p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   </p>
-   
-   
 <br />
 
 <h2 align="center">🤝 Support</h2>
