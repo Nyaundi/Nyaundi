@@ -31,7 +31,11 @@
 <p align="center">
 </p>
  <h4>
-I started out as a cool guy i.e. Hacker, then transitioned to DevOps(Cool stuff by the way) and I am passionate about Frontend Design. <br>  I am passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy learning and working with are Javascript and its frameworks like React and NodeJs. I dream of Javascript, and I always think that CSS is better than Tailwind, Oh btw I love hacking when I am bored, ethically of course, since you are not going to read all this, I am also a DevOps engineer.
+I initially began my professional journey as a cybersecurity enthusiast with a keen interest in ethical hacking. Subsequently, I transitioned to the dynamic field of DevOps, which I find both intriguing and highly engaging. Beyond that, I have developed a deep passion for front-end design.
+
+My commitment extends to making open-source contributions more accessible, leveraging technology to empower individuals, and fostering collaborative communities. I have a particular affinity for mastering and working with technologies such as JavaScript and its associated frameworks, including React and Node.js. JavaScript, in particular, occupies a significant place in my aspirations, and I firmly maintain that CSS outperforms Tailwind. Additionally, I occasionally indulge in ethical hacking when seeking an intellectually stimulating pastime.
+
+It is worth noting that my professional role extends to encompassing DevOps engineering, adding another layer to my versatile skill set.
 </h4>
  
  <p align="center">
