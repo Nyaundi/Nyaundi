@@ -21,16 +21,7 @@
    <a href="https://visitor-badge.glitch.me/badge?page_id=James Nyaundi"> <img alt="Nyaundi Github" src="https://visitor-badge.glitch.me/badge?page_id=Jamees Nyaundi"> </a>
  </p>
  
- <h5 align="center">
-   <i>When you arise in the morning, think of what a precious privilege it is to be alive - to breathe, to think, to enjoy, to love</i>
-  </h5>
- 
- 
-<br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
-<p align="center">
-</p>
- <h4>
+<h4>
 I initially began my professional journey as a cybersecurity enthusiast with a keen interest in ethical hacking. Subsequently, I transitioned to the dynamic field of DevOps, which I find both intriguing and highly engaging. Beyond that, I have developed a deep passion for front-end design.
 
 My commitment extends to making open-source contributions more accessible, leveraging technology to empower individuals, and fostering collaborative communities. I have a particular affinity for mastering and working with technologies such as JavaScript and its associated frameworks, including React and Node.js. JavaScript, in particular, occupies a significant place in my aspirations, and I firmly maintain that CSS outperforms Tailwind. Additionally, I occasionally indulge in ethical hacking when seeking an intellectually stimulating pastime.
