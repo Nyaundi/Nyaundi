@@ -1,20 +1,7 @@
 <div align="center">
    <h1>Hi there, I'm Nyaundi</a> </h1>
    
-   
-<p>
-<a href="https://twitter.com/Nyaundillc"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-</p>
-<div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎James Nyaundi | 💻 Backend and DevOps Engineer | 🛸 Nairobi, Kenya <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-</div>
 
-<p align="center">
-   <a href="https://twitter.com/Nyaundillc"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_James"></a>
-   <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="Nyaundi Github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
-   <a href="https://visitor-badge.glitch.me/badge?page_id=James Nyaundi"> <img alt="Nyaundi Github" src="https://visitor-badge.glitch.me/badge?page_id=Jamees Nyaundi"> </a>
- </p>
- 
 <h4>
 I initially began my professional journey as a cybersecurity enthusiast with a keen interest in ethical hacking. Subsequently, I transitioned to the dynamic field of DevOps, which I find both intriguing and highly engaging. Beyond that, I have developed a deep passion for front-end design.
 
