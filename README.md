@@ -1,9 +1,8 @@
 <div align="center">
-   <h1>Hi there, I'm Nyaundi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm Nyaundi</a> </h1>
    
    
 <p>
-   <a href="https://www.linkedin.com/in/james-nyaundi-2229611b3/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Nyaundillc"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 <div align="center">
