@@ -1,76 +1,116 @@
-<div align="center">
-   <h1>Hi there, I'm Nyaundi</a> </h1>
-   
+Hi there, I'm James Nyaundi 👋
 
-<h4>
-I initially began my professional journey as a cybersecurity enthusiast with a keen interest in ethical hacking. Subsequently, I transitioned to the dynamic field of DevOps, which I find both intriguing and highly engaging. Beyond that, I have developed a deep passion for front-end design.
+DevOps | Platform Engineering | Cloud Infrastructure | Kubernetes | SRE
 
-My commitment extends to making open-source contributions more accessible, leveraging technology to empower individuals, and fostering collaborative communities. I have a particular affinity for mastering and working with technologies such as JavaScript and its associated frameworks, including React and Node.js. JavaScript, in particular, occupies a significant place in my aspirations, and I firmly maintain that CSS outperforms Tailwind. Additionally, I occasionally indulge in ethical hacking when seeking an intellectually stimulating pastime.
+I design, automate, and operate production-grade cloud infrastructure that scales reliably under real-world traffic and business demands. My background started in cybersecurity and ethical hacking, but over the years I evolved into a full-stack infrastructure engineer focused on DevOps, Platform Engineering, Site Reliability Engineering (SRE), and cloud-native systems.
 
-It is worth noting that my professional role extends to encompassing DevOps engineering, adding another layer to my versatile skill set.
-</h4>
- 
- <p align="center">
-<!--  -->
-<!-- <p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=nyaundi&&show_icons=true&theme=radical"/>
-  </a> -->
+Today, I specialize in building highly automated delivery platforms across AWS, Azure, GCP, Kubernetes, Linux, CI/CD, Infrastructure as Code, observability, and scalable distributed systems.
 
-</p>
+I enjoy solving hard infrastructure problems:
 
-<br />
+Kubernetes platform engineering
+CI/CD automation pipelines
+Cloud-native deployments
+Infrastructure as Code (Terraform)
+Monitoring & observability
+Reliability engineering
+Linux systems administration
+Production incident response
+Security-focused infrastructure design
+Performance optimization at scale
 
-### - Languages and Tools...
+I also have hands-on experience supporting modern microservice environments using:
 
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<!--   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-<!--   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px"> -->
-<!--   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="DevOps" style="vertical-align:top; margin:4px"> -->
-<!--   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px"> --> -->
-<!--   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px"> -->
-<!--   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-<!--   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px"> -->
-<!--   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"> -->
-<!--   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px"> --> -->
-</p>
+Docker & Kubernetes
+Helm & GitOps workflows
+Jenkins & GitHub Actions
+NGINX & reverse proxies
+Kafka & RabbitMQ
+Redis & PostgreSQL
+OpenTelemetry & monitoring stacks
+Azure, AWS & Google Cloud
+🚀 What Drives Me
 
-<!--
-### - Blogs 🌱
--->
-<!--
-<p align="center">
-  <a href="https://dev.to/hemant">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-  </a>
-</p>
--->
+I am deeply passionate about:
 
+Building resilient infrastructure
+Automating everything possible
+Scaling engineering systems efficiently
+Creating developer-friendly platforms
+Open-source collaboration
+High-performance engineering cultures
+Continuous learning and experimentation
 
+I approach infrastructure with a product mindset:
+reliability, scalability, security, cost-efficiency, and developer experience all matter equally.
 
- ### - What i do
+🧠 Engineering Philosophy
+Automate repetitive work
+Design for scale from day one
+Reliability is a feature
+Documentation is part of engineering
+Simplicity beats unnecessary complexity
+Secure systems should also be usable
+Great DevOps enables developers instead of blocking them
+⚙️ Core Stack
+Cloud & Infrastructure
 
+AWS • Azure • GCP • Linux • Networking • DNS • Load Balancing
 
-<br />
+Containers & Orchestration
 
-<h2 align="center">🤝 Support</h2>
+Docker • Kubernetes • Helm • GitOps
 
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+CI/CD & Automation
 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
-<p align="center">Made with ❤️ in Kenya</p>
+GitHub Actions • Jenkins • Azure DevOps • Bash • Python
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+Infrastructure as Code
 
+Terraform • CloudFormation
 
+Monitoring & Observability
 
+Prometheus • Grafana • OpenTelemetry • Logging Pipelines
 
+Databases & Messaging
 
-  
+PostgreSQL • Redis • Kafka • RabbitMQ
+
+Development
+
+JavaScript • Node.js • React • APIs
+
+Security
+
+DevSecOps • Infrastructure Security • Ethical Hacking Fundamentals
+
+📈 Current Focus
+Advanced Kubernetes architecture
+Scalable platform engineering
+Cloud security & DevSecOps
+High-availability distributed systems
+Production-grade observability
+FAANG-level engineering practices
+Building elite DevOps systems
+🌍 Open Source & Community
+
+I strongly believe technology should empower people and create opportunities.
+I enjoy contributing to open-source projects, sharing knowledge, collaborating with engineers globally, and building systems that developers genuinely enjoy using.
+
+🤝 Contributions, discussions, issues, and feature requests are always welcome.
+
+If you find my projects valuable:
+⭐ Star them
+🍴 Fork them
+🚀 Share them
+
+📍 Based in Kenya 🇰🇪
+
+Building globally competitive infrastructure systems from Africa.
+
+⚡ Fun Fact
+
+I still enjoy ethical hacking and low-level system exploration for fun — once a security enthusiast, always a security enthusiast.
+
+“Great infrastructure is invisible when everything works — but world-class engineering is what makes that possible.”
